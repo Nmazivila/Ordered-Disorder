@@ -1,0 +1,19 @@
+body{
+  background-color: white;
+}
+
+div{
+  text-align: center;
+}
+
+input, textarea{
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+}
+.submit{
+  background-color: #dee7ec;
+  color: #889eab;
+}

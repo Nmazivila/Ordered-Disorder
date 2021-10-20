@@ -1,0 +1,40 @@
+/*body{
+  background-color: white;
+  padding: 100px;
+  background-image: url("logoinvert.jpg");
+  background-repeat: no-repeat;
+  position: fixed;
+  border-spacing: 100px;
+  background-attachment: fixed;
+}*/
+
+body {
+  background-color: white;
+  background-image: url("logo.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  margin: 100px;
+  padding: 60px;
+  border-spacing: 100px;
+  background-attachment: fixed;
+}
+p{
+  text-align: center;
+  font-style: normal;
+  font-family: Lucida;
+  font-size: 20px;
+}
+
+footer{
+  background-color: dark gray;
+  color: grey;
+  text-align: right;
+  border-top: black;
+}
+ul{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  color: red;
+}

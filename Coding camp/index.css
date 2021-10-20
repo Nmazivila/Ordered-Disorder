@@ -1,0 +1,122 @@
+body {
+  background-color: white;
+  background-image: url("logo.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  margin: 100px;
+  padding: 60px;
+  border-spacing: 100px;
+  background-attachment: fixed;
+}
+
+/*.menu{
+  background-color: grey;
+  padding: 14px 16px;
+  display: block;
+  float: right;
+  font-family: georgia;
+}*/
+
+nav{
+  overflow: auto;
+  position: fixed;
+  margin-bottom: 10px;
+  margin-right: auto;
+  padding: 0;
+}
+
+nav a{
+  margin-right: auto;
+  text-align: center;
+  padding: 10px;
+  margin-left: 150px;
+  margin-top: 0px;
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+h3{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-family: sans-serif;
+  color: red;
+  text-decoration-style: solid;
+}
+
+p{
+  font-family: garamond;
+  text-align: right;
+  color: black;
+  padding: 40px 40px 40px 40px;
+}
+
+.second{
+  text-align: center;
+}
+
+/*div{
+  text-align: right;
+}*/
+
+/*div.foot{
+  text-align: right;
+}*/
+
+/*.menu {
+  background-color: white;
+  top: 2;
+  display: block;
+  position: fixed;
+  color: silver;
+  overflow: hidden;
+}*/
+
+nav a:hover{
+background-color: silver;
+}
+
+
+.block{
+  display: inline;
+  height: 20%;
+  border: no-borders;
+  background-color: red;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+div.gallery {
+  align-content: center;
+  text-align: center;
+  margin: 30px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
+
+/*footer{
+  background-color: dark gray;
+  color: grey;
+  border-top: black;
+}/*
