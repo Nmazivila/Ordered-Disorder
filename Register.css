@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+  background-image: url("logo.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-image: image("logoinvert.jpg");
+}
+.contact{
+  text-align: center;
+}
+
+.submit{
+  background-color: none;
+  color: red;
+}
+
+header{
+  font-family: georgia;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+}
